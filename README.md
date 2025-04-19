@@ -6,6 +6,13 @@ The Dashboard page is all about insights. It gives an overview of key metrics li
 The Submit Quote page allows contractors to input new roofing projects through a simple form. They enter details like contractor and company name, roof size, type of roofing material, the city and state of the project, and the project date. Once submitted, all this data is stored securely in Firebase Realtime Database, making it easy to track and visualize later.
 The third page, Search Quotes, helps users quickly find specific quotes based on various filters. We can search by state, roof type, project date, contractor name, or company name. Depending on the search type, the interface adapts — so if we’re searching by roof type, for example, we’ll see a dropdown with available options, while searching by contractor name opens a text field. It’s flexible, fast, and helpful when trying to dig into specific project details.
 
+## Dashboard looks like:
+
+<br> ![Screenshot (177)](https://github.com/user-attachments/assets/4eb1ddc4-7085-425b-88f0-8cac4fa8282d)
+<br> ![image](https://github.com/user-attachments/assets/5432387b-88de-4f34-9562-a381226e8b52)
+<br> ![Screenshot (180)](https://github.com/user-attachments/assets/8f664178-a71b-4a8b-906b-7cdc363ca672)
+<br> ![Screenshot (179)](https://github.com/user-attachments/assets/04545d9a-8d8a-4a21-8440-e9a6783e83be)
+
 ## Tools Used and How to Run It Locally:
 
 <br> **React.js** – JavaScript library for building the user interface

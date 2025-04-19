@@ -50,9 +50,11 @@ Each mock record includes:
 
 <br> ![Screenshot (170)](https://github.com/user-attachments/assets/7490e845-16b4-40cd-baef-0db00b1cf442)
 
+## What you’d improve with more time:
 
+1. One meaningful improvement I’d love to add is allowing each contractor to log in with their own account and access a personalized dashboard. With Firebase Authentication, contractors could securely sign up or log in using their email and password. Once logged in, any quotes they submit would be automatically linked to their account. This way, when they visit their dashboard, they’d see only their own projects—making it a more personal and organized experience. They’d be able to track all the quotes they’ve submitted and view charts that show trends in their own data, like the most common roof types they work with, average roof sizes, and how active they’ve been over the months. I’d use React for the interface, Firebase for user management and storing the data, and Chart.js to build the visualizations. This would not only make the app feel more secure and professional but also give contractors a simple, self-serve way to manage their work in one place.
 
-
+2. Another useful improvement I’d make is adding the ability to export and download dashboard data or quote search results in formats like PDF, CSV, or Excel. This feature would allow contractors and stakeholders to easily generate reports, share insights, or keep offline records of their submissions and trends. For example, on the dashboard page, users could export visual summaries as a PDF report or download the raw data behind the charts as a CSV or Excel file. On the search quotes page, they could apply filters and then export the filtered results for further analysis. This can be implemented using libraries like react-csv or SheetJS for CSV/Excel downloads, and jsPDF with html2canvas for exporting charts and sections as PDF. It adds a layer of professionalism and convenience, especially for users who need to present data or maintain external documentation.
 
 
 

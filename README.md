@@ -9,11 +9,11 @@ The third page, Search Quotes, helps users quickly find specific quotes based on
 ## Tools Used and How to Run It Locally:
 
 <br> **React.js** – JavaScript library for building the user interface <br />
-**Vite** – Lightning-fast build tool and development server for React,
-**JavaScript (ES6+)** – For frontend logic and interactivity,
-**Tailwind CSS** – For responsive and utility-first styling,
-**Firebase Realtime Database** – For storing quote submissions,
-**Chart.js** – For rendering dynamic and interactive graphs.
+<br> **Vite** – Lightning-fast build tool and development server for React <br />
+<br> **JavaScript (ES6+)** – For frontend logic and interactivity <br />
+<br> **Tailwind CSS** – For responsive and utility-first styling <br />
+<br> **Firebase Realtime Database** – For storing quote submissions <br />
+<br> **Chart.js** – For rendering dynamic and interactive graphs. <br />
 
 ## How to Run It Locally:
 

@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+## Short Summary:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I created a full-stack web application called the Contractor Quote Portal & Performance Dashboard, designed to make it easier for contractors to submit roofing project quotes and explore useful trends in their data.
+The portal has three main sections — a dashboard, a quote submission form, and a search quotes section — each built to serve a specific purpose in a clean and intuitive way.
+The Dashboard page is all about insights. It gives an overview of key metrics like the total number of quotes submitted, how many unique states are involved, the most common roof type used, and a breakdown of how many quotes fall under each roof type (Foam, Shingle, Metal, EPDM, TPO, PVC). We can also choose a state from a dropdown to see the roof type distribution just for that state, making it easy to spot trends regionally. I also included three dynamic charts: one showing the number of projects per state, another displaying the average roof size per roof type, and a line graph tracking how quote submissions have changed month by month from July 2023 to April 2024.
+The Submit Quote page allows contractors to input new roofing projects through a simple form. They enter details like contractor and company name, roof size, type of roofing material, the city and state of the project, and the project date. Once submitted, all this data is stored securely in Firebase Realtime Database, making it easy to track and visualize later.
+The third page, Search Quotes, helps users quickly find specific quotes based on various filters. We can search by state, roof type, project date, contractor name, or company name. Depending on the search type, the interface adapts — so if we’re searching by roof type, for example, we’ll see a dropdown with available options, while searching by contractor name opens a text field. It’s flexible, fast, and helpful when trying to dig into specific project details.
 
-## Available Scripts
+## Tools Used and How to Run It Locally:
 
-In the project directory, you can run:
+React.js – JavaScript library for building the user interface
+Vite – Lightning-fast build tool and development server for React
+JavaScript (ES6+) – For frontend logic and interactivity
+Tailwind CSS – For responsive and utility-first styling
+Firebase Realtime Database – For storing quote submissions
+Chart.js – For rendering dynamic and interactive graphs
 
-### `npm start`
+## How to Run It Locally:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1.	Clone the Repository:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### git clone https://github.com/anjalibarigela2/Contractor-Data.git
+### cd Contractor-Data
 
-### `npm test`
+2. Install Dependencies:
+Make sure you have Node.js and npm installed. Then run:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### npm install
 
-### `npm run build`
+3. Start the Development Server:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### npm run start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

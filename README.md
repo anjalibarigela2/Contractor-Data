@@ -36,12 +36,16 @@ npm run start
 I generated mock data for over 1,000 roofing project quotes to populate the performance dashboard and simulate realistic analytics.
 
 Each mock record includes:
+
 <br> Contractor Name
 <br> Company Name
 <br> Roof Size (sq ft) – randomized between realistic ranges (e.g., 200 to 10,000 sq ft)
 <br> Roof Type – randomly selected from predefined types like Foam, Shingle, Metal, EPDM, TPO, and PVC
 <br> City & State – randomly chosen from a list of U.S. cities and 51 states
 <br> Project Date – randomly spread till April 2025.
+
+![image](https://github.com/user-attachments/assets/4749b237-e27a-42fd-b22b-1b55ecedf31c)
+
 
 
 

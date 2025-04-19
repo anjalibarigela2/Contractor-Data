@@ -8,28 +8,41 @@ The third page, Search Quotes, helps users quickly find specific quotes based on
 
 ## Tools Used and How to Run It Locally:
 
-React.js – JavaScript library for building the user interface
-Vite – Lightning-fast build tool and development server for React
-JavaScript (ES6+) – For frontend logic and interactivity
-Tailwind CSS – For responsive and utility-first styling
-Firebase Realtime Database – For storing quote submissions
-Chart.js – For rendering dynamic and interactive graphs
+React.js – JavaScript library for building the user interface, 
+Vite – Lightning-fast build tool and development server for React,
+JavaScript (ES6+) – For frontend logic and interactivity,
+Tailwind CSS – For responsive and utility-first styling,
+Firebase Realtime Database – For storing quote submissions,
+Chart.js – For rendering dynamic and interactive graphs.
 
 ## How to Run It Locally:
 
 1.	Clone the Repository:
 
-### git clone https://github.com/anjalibarigela2/Contractor-Data.git
-### cd Contractor-Data
+## git clone https://github.com/anjalibarigela2/Contractor-Data.git
+## cd Contractor-Data
 
 2. Install Dependencies:
 Make sure you have Node.js and npm installed. Then run:
 
-### npm install
+## npm install
 
 3. Start the Development Server:
 
-### npm run start
+## npm run start
+
+## Any mock data you generated:
+
+I generated mock data for over 1,000 roofing project quotes to populate the performance dashboard and simulate realistic analytics.
+
+Each mock record includes:
+
+Contractor Name,
+Company Name,
+Roof Size (sq ft) – randomized between realistic ranges (e.g., 200 to 10,000 sq ft),
+Roof Type – randomly selected from predefined types like Foam, Shingle, Metal, EPDM, TPO, and PVC,
+City & State – randomly chosen from a list of U.S. cities and 51 states,
+Project Date – randomly spread till April 2025.
 
 
 

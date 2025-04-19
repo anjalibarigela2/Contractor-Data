@@ -8,7 +8,7 @@ The third page, Search Quotes, helps users quickly find specific quotes based on
 
 ## Tools Used and How to Run It Locally:
 
-**React.js** – JavaScript library for building the user interface, 
+<br> **React.js** – JavaScript library for building the user interface <br />
 **Vite** – Lightning-fast build tool and development server for React,
 **JavaScript (ES6+)** – For frontend logic and interactivity,
 **Tailwind CSS** – For responsive and utility-first styling,

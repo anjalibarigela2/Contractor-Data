@@ -9,11 +9,11 @@ The third page, Search Quotes, helps users quickly find specific quotes based on
 ## Tools Used and How to Run It Locally:
 
 <br> **React.js** – JavaScript library for building the user interface
-<br> **Vite** – Lightning-fast build tool and development server for React <br />
-<br> **JavaScript (ES6+)** – For frontend logic and interactivity <br />
-<br> **Tailwind CSS** – For responsive and utility-first styling <br />
-<br> **Firebase Realtime Database** – For storing quote submissions <br />
-<br> **Chart.js** – For rendering dynamic and interactive graphs. <br />
+<br> **Vite** – Lightning-fast build tool and development server for React
+<br> **JavaScript (ES6+)** – For frontend logic and interactivity
+<br> **Tailwind CSS** – For responsive and utility-first styling
+<br> **Firebase Realtime Database** – For storing quote submissions
+<br> **Chart.js** – For rendering dynamic and interactive graphs.
 
 ## How to Run It Locally:
 
@@ -37,12 +37,12 @@ I generated mock data for over 1,000 roofing project quotes to populate the perf
 
 Each mock record includes:
 
-Contractor Name,
-Company Name,
-Roof Size (sq ft) – randomized between realistic ranges (e.g., 200 to 10,000 sq ft),
-Roof Type – randomly selected from predefined types like Foam, Shingle, Metal, EPDM, TPO, and PVC,
-City & State – randomly chosen from a list of U.S. cities and 51 states,
-Project Date – randomly spread till April 2025.
+<br> Contractor Name
+<br> Company Name
+<br> Roof Size (sq ft) – randomized between realistic ranges (e.g., 200 to 10,000 sq ft)
+<br> Roof Type – randomly selected from predefined types like Foam, Shingle, Metal, EPDM, TPO, and PVC
+<br> City & State – randomly chosen from a list of U.S. cities and 51 states
+<br> Project Date – randomly spread till April 2025.
 
 
 

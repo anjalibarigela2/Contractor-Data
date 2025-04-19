@@ -44,11 +44,11 @@ Each mock record includes:
 <br> City & State – randomly chosen from a list of U.S. cities and 51 states
 <br> Project Date – randomly spread till April 2025.
 
-![Screenshot (172)](https://github.com/user-attachments/assets/8a54e5da-b38a-4f23-9342-dd9ca25855c8)
+<br> ![Screenshot (172)](https://github.com/user-attachments/assets/8a54e5da-b38a-4f23-9342-dd9ca25855c8)
 
-![Screenshot (171)](https://github.com/user-attachments/assets/192b35ce-a0d6-4b61-aee2-2ba8e47a8c00)
+<br> ![Screenshot (171)](https://github.com/user-attachments/assets/192b35ce-a0d6-4b61-aee2-2ba8e47a8c00)
 
-![Screenshot (170)](https://github.com/user-attachments/assets/7490e845-16b4-40cd-baef-0db00b1cf442)
+<br> ![Screenshot (170)](https://github.com/user-attachments/assets/7490e845-16b4-40cd-baef-0db00b1cf442)
 
 
 

@@ -8,9 +8,9 @@ The third page, Search Quotes, helps users quickly find specific quotes based on
 
 ## Dashboard looks like:
 
-<br> ![Screenshot (177)](https://github.com/user-attachments/assets/4eb1ddc4-7085-425b-88f0-8cac4fa8282d)
-<br> ![image](https://github.com/user-attachments/assets/5432387b-88de-4f34-9562-a381226e8b52)
-<br> ![Screenshot (180)](https://github.com/user-attachments/assets/8f664178-a71b-4a8b-906b-7cdc363ca672)
+<br> ![Screenshot (177)](https://github.com/user-attachments/assets/ac03842c-d803-4d44-9542-051aba2e80ab) <br />
+<br> ![Screenshot (180)](https://github.com/user-attachments/assets/68e45ada-0663-4960-b0e3-e2fb2b4b7406) <br />
+<br> ![Screenshot (178)](https://github.com/user-attachments/assets/85926c39-23ad-4ef1-b06d-68da6835ceca) <br />
 <br> ![Screenshot (179)](https://github.com/user-attachments/assets/04545d9a-8d8a-4a21-8440-e9a6783e83be)
 
 ## Tools Used and How to Run It Locally:

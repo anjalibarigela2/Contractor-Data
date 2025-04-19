@@ -22,7 +22,7 @@ The third page, Search Quotes, helps users quickly find specific quotes based on
 <br> **Vite** – Lightning-fast build tool and development server for React
 <br> **JavaScript (ES6+)** – For frontend logic and interactivity
 <br> **Tailwind CSS** – For responsive and utility-first styling
-<br> **Firebase Realtime Database** – For storing quote submissions
+<br> **Firestore Database** – For storing quote submissions
 
 ## How to Run It Locally:
 

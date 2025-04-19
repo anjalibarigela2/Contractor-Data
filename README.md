@@ -29,7 +29,7 @@ The third page, Search Quotes, helps users quickly find specific quotes based on
 
 ## 1.	Clone the Repository:
 
-<br> git clone https://github.com/anjalibarigela2/Contractor-Data.git
+<br> git clone https://github.com/anjalibarigela2/Contractor-Data.git <br/>
 cd Contractor-Data
 
 ## 2. Install Dependencies:

@@ -8,28 +8,28 @@ The third page, Search Quotes, helps users quickly find specific quotes based on
 
 ## Tools Used and How to Run It Locally:
 
-React.js – JavaScript library for building the user interface, 
-Vite – Lightning-fast build tool and development server for React,
-JavaScript (ES6+) – For frontend logic and interactivity,
-Tailwind CSS – For responsive and utility-first styling,
-Firebase Realtime Database – For storing quote submissions,
-Chart.js – For rendering dynamic and interactive graphs.
+**React.js** – JavaScript library for building the user interface, 
+**Vite** – Lightning-fast build tool and development server for React,
+**JavaScript (ES6+)** – For frontend logic and interactivity,
+**Tailwind CSS** – For responsive and utility-first styling,
+**Firebase Realtime Database** – For storing quote submissions,
+**Chart.js** – For rendering dynamic and interactive graphs.
 
 ## How to Run It Locally:
 
-1.	Clone the Repository:
+## 1.	Clone the Repository:
 
-## git clone https://github.com/anjalibarigela2/Contractor-Data.git
-## cd Contractor-Data
+git clone https://github.com/anjalibarigela2/Contractor-Data.git
+cd Contractor-Data
 
-2. Install Dependencies:
+## 2. Install Dependencies:
 Make sure you have Node.js and npm installed. Then run:
 
-## npm install
+npm install
 
-3. Start the Development Server:
+## 3. Start the Development Server:
 
-## npm run start
+npm run start
 
 ## Any mock data you generated:
 
